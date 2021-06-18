@@ -1,4 +1,7 @@
 theme: jekyll-theme-leap-day
 title: Aurixon
 description: Document Management System
-image: aurixon_logo.jpg
+image:
+  path: aurixon_logo.jpg
+  width: 100
+  height: 100
