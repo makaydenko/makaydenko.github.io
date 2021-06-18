@@ -1,6 +1,4 @@
-<p align="center">
-  <img og:image:height="100" src="/aurixon_logo.jpg">
-</p>
+![aurixon_logo](/aurixon_logo.jpg)
 
 # Aрхитектура
 
